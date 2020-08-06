@@ -1,9 +1,8 @@
-India,2000500
-Usa,330300
-China,3000000
-Japan,4000000
-Peru,23444
-Thailand,5400000
-Italy,30000000
-Malaysia,35000000
-france,400000
+China,3000000,Beijing
+france,400000,Paris
+India,10000,New Delhi
+Italy,30000000,Rome
+Japan,4000000,Tokyo
+Malaysia,35000000,Kuala Lambur
+Peru,23444,Lima
+Thailand,5400000,Bangkok
